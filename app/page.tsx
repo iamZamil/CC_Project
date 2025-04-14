@@ -2,7 +2,7 @@ import CompilerInterface from "@/components/compiler-interface"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Compiler Construction Project",
+  title: "Compiler Construction Project F223266 Zamil F223289 Abdullah F223276 Sana noor",
   description: "A web-based compiler for a custom programming language",
 }
 
