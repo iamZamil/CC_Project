@@ -11,7 +11,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col">
       <header className="border-b">
         <div className="container mx-auto py-4">
-          <h1 className="text-2xl font-bold">Compiler Construction Project</h1>
+          <h1 className="text-2xl font-bold">F223266 Zamil F223289 Abdullah F223276 Sana noor</h1>
           <p className="text-muted-foreground">A web-based compiler for a custom programming language</p>
         </div>
       </header>
